@@ -13,5 +13,8 @@ Collect some small knowledge points and tips of Python
   - 004-在csv中写入固定数据-字典-行-表头-解决空行  
   - 005-爬虫-关闭安全验证verify和安全警告  
   - 006-爬虫-中文乱码的解决方法
+  - 007-保留几位小数
+  - 008-join拼接列表成字符串-即split用法
+  - 009-循环遍历两个列表.py
   
 </details>
