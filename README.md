@@ -15,6 +15,9 @@ Collect some small knowledge points and tips of Python
   - 006-爬虫-中文乱码的解决方法
   - 007-保留几位小数
   - 008-join拼接列表成字符串-即split用法
-  - 009-循环遍历两个列表.py
+  - 009-循环遍历两个列表
+  - 010-去掉左右多余的字符-strip
+  - 011-csv写入中文乱码-utf-8-sig
+  - 012-一行打印-还能进行分行显示
   
 </details>
