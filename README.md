@@ -19,5 +19,8 @@ Collect some small knowledge points and tips of Python
   - 010-去掉左右多余的字符-strip
   - 011-csv写入中文乱码-utf-8-sig
   - 012-一行打印-还能进行分行显示
+  - 013-特殊字符不转义加r
+  - 014-BeautifulSoup-基本语法
+  - 015-多线程基本方法
   
 </details>
