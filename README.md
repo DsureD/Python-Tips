@@ -22,5 +22,8 @@ Collect some small knowledge points and tips of Python
   - 013-特殊字符不转义加r
   - 014-BeautifulSoup-基本语法
   - 015-多线程基本方法
+  - 016-关于时间time转换
+  - 017-webrowser自动打开系统默认浏览器（自带库）
+  - 018-把数转成二进制或者其他进制
   
 </details>
