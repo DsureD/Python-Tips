@@ -25,5 +25,8 @@ Collect some small knowledge points and tips of Python
   - 016-关于时间time转换
   - 017-webrowser自动打开系统默认浏览器（自带库）
   - 018-把数转成二进制或者其他进制
+  - 019-xpath新知识-模糊匹配-大于第几个的position-通过文本定位
+  - 020-格式化输出f-string字符串-居中等
+  - 021-函数的参数类型注释-和返回注释
   
 </details>
