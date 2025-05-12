@@ -31,5 +31,8 @@ Collect some small knowledge points and tips of Python
   - 022-将列表或元组或字典中的多个元素进行函数传参
   - 023-函数定长和不定长参数
   - 024-匿名函数lamda基本方法
+  - 025-打印进度条-不换行(原位打印)-从行首打印反斜杠r
+  - 026-格式化字符串format的另一种用法
+  - 027-字符串转base64编码-解码
   
 </details>
