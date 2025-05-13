@@ -34,5 +34,8 @@ Collect some small knowledge points and tips of Python
   - 025-打印进度条-不换行(原位打印)-从行首打印反斜杠r
   - 026-格式化字符串format的另一种用法
   - 027-字符串转base64编码-解码
+  - 028-判断文件夹是否存在，否则创建
+  - 029-二维码的创建-基本方法
+  - 030-文件分批写入-以免文件一次写入过大
   
 </details>
