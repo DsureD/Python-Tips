@@ -37,5 +37,8 @@ Collect some small knowledge points and tips of Python
   - 028-判断文件夹是否存在，否则创建
   - 029-二维码的创建-基本方法
   - 030-文件分批写入-以免文件一次写入过大
+  - 031-列出某一类文件（后缀）-列表
+  - 032-sqlite3数据库-基础方法
+  - 033-从其他文件调用
   
 </details>
