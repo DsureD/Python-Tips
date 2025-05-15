@@ -40,5 +40,8 @@ Collect some small knowledge points and tips of Python
   - 031-列出某一类文件（后缀）-列表
   - 032-sqlite3数据库-基础方法
   - 033-从其他文件调用
+  - 034-csv表格基本方法
+  - 035-两个列表同时循环遍历-zip
+  - 036-print()输出到文件
   
 </details>
