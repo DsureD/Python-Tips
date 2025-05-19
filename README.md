@@ -43,5 +43,8 @@ Collect some small knowledge points and tips of Python
   - 034-csv表格基本方法
   - 035-两个列表同时循环遍历-zip
   - 036-print()输出到文件
+  - 037-python-md5-sha256加密
+  - 038-用0填充某个字符串的长度zfill_数字补0
+  - 039-用特定字符填充-rjust
   
 </details>
