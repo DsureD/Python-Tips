@@ -1,8 +1,32 @@
 # Python-Tips
 
-收集一些Python的小知识点、小技巧。
+This project is a curated collection of Python tips and tricks, designed to help both beginners and experienced developers discover useful techniques and solve common problems more efficiently. Whether you're learning Python or looking for a quick reminder on a specific syntax, this repository aims to be a helpful resource.
 
-Collect some small knowledge points and tips of Python
+本专案收集整理了一些 Python 的实用技巧和窍门，旨在帮助初学者和有经验的开发者学习实用技巧，更高效地解决常见问题。无论您是正在学习 Python，还是想快速回顾某个特定语法，本代码仓库都希望能为您提供有用的参考。
+
+## Project Structure
+
+The tips are organized within the `code/` directory. Each tip is contained in a separate Python file, named with a number and a descriptive title in Chinese. This naming convention helps in quickly identifying the content of each script. For example, `001-一行写if-else.py` demonstrates how to write an if-else statement in a single line.
+
+## 专案结构
+
+这些技巧被整理在 `code/` 目录下。每个技巧都包含在一个独立的 Python 文件中，文件名以数字和中文描述性标题命名。这种命名约定有助于快速识别每个脚本的内容。例如，`001-一行写if-else.py` 演示了如何在一行中编写 if-else 语句。
+
+## How to Use
+
+You can explore the Python tips in two main ways:
+1.  **Browse the `code/` directory:** Navigate directly into the `code/` folder to see all the individual Python scripts.
+2.  **Use the Table of Contents:** The expandable "目录 Content" section below lists all available tips. Click on it to see the full list and then refer to the corresponding file in the `code/` directory.
+
+Each script is self-contained and demonstrates a specific tip or trick.
+
+## 如何使用
+
+您可以通过以下两种主要方式来查阅这些 Python 技巧：
+1.  **浏览 `code/` 目录：** 直接进入 `code/` 文件夹查看所有独立的 Python 脚本。
+2.  **使用目录：** 下方可展开的 “目录 Content” 部分列出了所有可用的技巧。点击它可以查看完整列表，然后参考 `code/` 目录中对应的文件。
+
+每个脚本都是独立，并演示一个特定的技巧或窍门。
 
 <details>
   <summary> 📠 目录 Content</summary>
@@ -48,3 +72,19 @@ Collect some small knowledge points and tips of Python
   - 039-用特定字符填充-rjust
   
 </details>
+
+## Contributing
+
+Contributions are welcome! If you have a Python tip or trick you'd like to share, please feel free to:
+1.  Fork the repository.
+2.  Create a new `.py` file in the `code/` directory. Please follow the existing naming convention (e.g., `NNN-your-tip-description.py`, where NNN is the next available number).
+3.  Add a brief description of your tip, including the Chinese filename, to the table of contents in this README.
+4.  Submit a pull request.
+
+## 贡献
+
+欢迎投稿！如果您有想要分享的 Python 技巧或窍门，请随时：
+1.  Fork 本代码仓库。
+2.  在 `code/` 目录下创建一个新的 `.py` 文件。请遵循现有的命名约定（例如 `NNN-你的技巧描述.py`，其中 NNN 是下一个可用的编号）。
+3.  将您的技巧的简要说明（包括中文文件名）添加到此 README 的目录中。
+4.  提交拉取请求。
