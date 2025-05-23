@@ -70,6 +70,9 @@ Each script is self-contained and demonstrates a specific tip or trick.
   - 037-python-md5-sha256加密
   - 038-用0填充某个字符串的长度zfill_数字补0
   - 039-用特定字符填充-rjust
+  - 040-setcookie请求时添加cookies-session
+  - 041-列表倒序-打印索引值
+  - 042-自带库hmac-实现MD5加密
   
 </details>
 
