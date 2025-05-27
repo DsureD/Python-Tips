@@ -73,6 +73,9 @@ Each script is self-contained and demonstrates a specific tip or trick.
   - 040-setcookie请求时添加cookies-session
   - 041-列表倒序-打印索引值
   - 042-自带库hmac-实现MD5加密
+  - 043-pyauto基本-按键自动点击-鼠标位置等
+  - 044-自带库winsound-提示音
+  - 045-从其他文件引入变量
   
 </details>
 
