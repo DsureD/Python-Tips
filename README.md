@@ -76,6 +76,9 @@ Each script is self-contained and demonstrates a specific tip or trick.
   - 043-pyauto基本-按键自动点击-鼠标位置等
   - 044-自带库winsound-提示音
   - 045-从其他文件引入变量
+  - 046-从遍历列表运行函数
+  - 047-函数装饰器基本
+  - 048-回调函数-传参基本
   
 </details>
 
