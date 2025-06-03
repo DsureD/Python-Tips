@@ -8,7 +8,7 @@ This project is a curated collection of Python tips and tricks, designed to help
 
 The tips are organized within the `code/` directory. Each tip is contained in a separate Python file, named with a number and a descriptive title in Chinese. This naming convention helps in quickly identifying the content of each script. For example, `001-一行写if-else.py` demonstrates how to write an if-else statement in a single line.
 
-## 专案结构
+## 项目结构
 
 这些技巧被整理在 `code/` 目录下。每个技巧都包含在一个独立的 Python 文件中，文件名以数字和中文描述性标题命名。这种命名约定有助于快速识别每个脚本的内容。例如，`001-一行写if-else.py` 演示了如何在一行中编写 if-else 语句。
 
