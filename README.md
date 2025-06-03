@@ -79,7 +79,10 @@ Each script is self-contained and demonstrates a specific tip or trick.
   - 046-从遍历列表运行函数
   - 047-函数装饰器基本
   - 048-回调函数-传参基本
-  
+  - 049-多线程示例
+  - 050-文件路径不存在-就创建os_path_exist
+  - 051-合并两个字典
+    
 </details>
 
 ## Contributing
