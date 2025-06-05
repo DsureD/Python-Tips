@@ -82,6 +82,9 @@ Each script is self-contained and demonstrates a specific tip or trick.
   - 049-多线程示例
   - 050-文件路径不存在-就创建os_path_exist
   - 051-合并两个字典
+  - 052-控制台打印不同颜色字符
+  - 053-python执行cmd命令两种方法
+  - 054-f格式化字符串-遇到本来就有小括号{问题
     
 </details>
 
