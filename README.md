@@ -103,7 +103,3 @@ Contributions are welcome! If you have a Python tip or trick you'd like to share
 2.  在 `code/` 目录下创建一个新的 `.py` 文件。请遵循现有的命名约定（例如 `NNN-你的技巧描述.py`，其中 NNN 是下一个可用的编号）。
 3.  将您的技巧的简要说明（包括中文文件名）添加到此 README 的目录中。
 4.  提交拉取请求。
-   
-## 感谢DartNode
-
-[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
