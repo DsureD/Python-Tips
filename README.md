@@ -86,6 +86,7 @@ Each script is self-contained and demonstrates a specific tip or trick.
   - 053-python执行cmd命令两种方法
   - 054-f格式化字符串-遇到本来就有小括号{问题
   - 055-查看文件修改的时间日期
+  - 056-fastapi基本实例
     
 </details>
 
